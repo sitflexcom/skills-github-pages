@@ -1,0 +1,45 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    background-color: aliceblue;
+}
+/* tet sit paj akey la*/
+.tet{
+    display: flex;
+    background: rgb(14, 10, 10);
+    
+}
+.tit{
+    color: aliceblue;
+    font: 1em sans-serif;
+}
+.navigasyon{
+    font: 1em sans-serif;
+}
+.navigasyon ul{
+    display: inline-flex;
+    list-style: none;
+    
+}
+.navigasyon a{
+    text-decoration: none;
+    color: aliceblue;
+    margin-left: 10px;
+    
+}
+/*ko paj akey la*/
+.koa{
+    min-height: 100vh;
+}
+/*pye paj akey la*/
+.pyepaj{
+    background-color: rgb(14, 10, 10) ;
+    text-align: center;
+    color: aliceblue;
+    min-height: 10vh;
+    padding-right: 100%;
+}
+.listpye{
+    list-style: none;
+    
+}
